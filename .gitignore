@@ -24,8 +24,8 @@ yarn-error.log*
 
 # Project exclude paths
 /client/node_modules/
-/comments-microservice/node_modules/
+/comments/node_modules/
 /event-bus/node_modules/
-/moderation-comment-service/node_modules/
-/posts-microservice/node_modules/
-/query-service/node_modules/
+/moderation/node_modules/
+/posts/node_modules/
+/query/node_modules/
